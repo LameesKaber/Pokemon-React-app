@@ -1,3 +1,14 @@
+the project fetch some data from Pokemon api "https://pokeapi.co/api/v2/pokemon" and use pagination buttons (next, prev) to jump between the fetched data
+Concepts Covered:
+
+- Creating a React application
+
+- useState hook
+
+- useEffect hook
+
+- How to use axios with React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
